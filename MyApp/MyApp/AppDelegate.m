@@ -17,7 +17,6 @@
 
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
     // Override point for customization after application launch.
-    UIButton *bnt =  [UIButton buttonWithType:UIButtonTypeCustom];
     return YES;
 }
 
