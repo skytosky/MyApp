@@ -12,6 +12,8 @@
 
 @property (strong, nonatomic) UIWindow *window;
 @property (nonatomic, retain) NSString *se;
+@property (nonatomic, retain) NSString *se1;
+@property (nonatomic, retain) NSString *se2;
 
 @end
 

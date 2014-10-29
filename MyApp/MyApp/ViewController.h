@@ -10,6 +10,7 @@
 
 @interface ViewController : UIViewController
 @property (nonatomic, retain) NSString *se;
-
+@property (nonatomic, retain) NSString *se1;
+@property (nonatomic, retain) NSString *se2;
 @end
 

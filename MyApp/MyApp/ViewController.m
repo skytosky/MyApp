@@ -9,7 +9,8 @@
 #import "ViewController.h"
 
 @interface ViewController ()
-
+@property (nonatomic, retain) NSString *se1;
+@property (nonatomic, retain) NSString *se2;
 @end
 
 @implementation ViewController
