@@ -18,6 +18,7 @@
     [super viewDidLoad];
     UIButton *btn = [UIButton buttonWithType:UIButtonTypeCustom];
     [self.view addSubview:btn];
+    UIButton *bnt =  [UIButton buttonWithType:UIButtonTypeCustom];
     // Do any additional setup after loading the view, typically from a nib.
 }
 
